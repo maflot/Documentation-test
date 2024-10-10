@@ -14,7 +14,7 @@ You can install the ``DicePlot`` package directly from GitHub using the ``devtoo
    # Install DicePlot from GitHub
    devtools::install_github("maflot/DicePlot/diceplot")
 
-3.2 Install DicePlot from Files
+1. Install DicePlot from Files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Download the repository and run the following code to install the package:
@@ -23,7 +23,7 @@ Download the repository and run the following code to install the package:
 
    install.packages("$path on your local machine$/DicePlot/diceplot", repos = NULL, type = "source")
 
-4. Load the Package
+2. Load the Package
 ~~~~~~~~~~~~~~~~~~~
 
 After installation, load the ``DicePlot`` package into your R session:
