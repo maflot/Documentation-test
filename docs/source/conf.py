@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'DicePlot'
-copyright = '2024, Matthias Flotho'
+copyright = '2024, CCB - https://www.ccb.uni-saarland.de/'
 author = 'Matthias Flotho'
 
 release = '0.1'
