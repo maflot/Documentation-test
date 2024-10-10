@@ -3,6 +3,7 @@ Python - pyDicePlot
 The pyDicePlot package allows you to create visualizations (dice plots) for datasets with more than two categorical variables and additional continuous variables. This tool is particularly useful for exploring complex categorical data and their relationships with continuous variables.
 
 1. Requirements
+~~~~~~~~~~~~~~~~~~~
 
 This code requires Python 3.
 
@@ -13,6 +14,7 @@ conda activate pyDicePlot
 pip install -r requirements.txt
 
 2. Installation via pip
+~~~~~~~~~~~~~~~~~~~
 
 To install the package via pip, run:
 
@@ -37,12 +39,14 @@ Sample Output
 Figure: A sample dice plot generated using the pyDicePlot package.
 
 3 .Features
+~~~~~~~~~~~
 
 	•	Visualize Complex Data: Easily create plots for datasets with multiple categorical variables.
 	•	Customization: Customize plots with titles, labels, and themes.
 	•	Integration with Matplotlib: Leverages the power of matplotlib for advanced plotting capabilities.
 
 4. Contributing
+~~~~~~~~~~~~~~~
 
 We welcome contributions from the community! If you’d like to contribute:
 
@@ -51,5 +55,6 @@ We welcome contributions from the community! If you’d like to contribute:
 	3.	Submit a pull request with a detailed description of your changes.
 
 5. Contact
+~~~~~~~~~~
 
 If you have any questions, suggestions, or issues, please open an issue on GitHub.
