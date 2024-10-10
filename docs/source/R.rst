@@ -1,8 +1,6 @@
 R - Diceplot
 =======================
 
-
-
 .. caution::
 
    Not feasible as the repository is still private
