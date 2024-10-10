@@ -11,8 +11,6 @@ Contents
 --------
 
 .. toctree::
-
    usage
-   
    python
    R
