@@ -33,7 +33,7 @@ After installation, load the ``DicePlot`` package into your R session:
    library(DicePlot)
 
 Example Usage
--------------
+~~~~~~~~~~~~~
 
 Here is a simple example of how to use the ``DicePlot`` package:
 
@@ -120,13 +120,8 @@ Here is a simple example of how to use the ``DicePlot`` package:
 
 This code will generate a dice plot visualizing the relationships between the categorical variables ``CellType``, ``Pathway``, ``PathologyVariable``, and the group variable ``Group``.
 
-Using Dice Plots in Python
---------------------------
-
-For using dice plots in Python, please refer to `pyDicePlot <https://github.com/maflot/pyDicePlot/tree/main>`_.
-
 Sample Output
--------------
+
 
 .. figure:: ./sample_plots/dice_plot_3_example_dice_plot.png
    :alt: Sample Dice with 3 categories Plot
@@ -138,20 +133,15 @@ Sample Output
 
    *Figure: A sample dice plot generated using the ``DicePlot`` package.*
 
-Documentation
--------------
-
-For full documentation and additional examples, please refer to the docpages *(TODO)*.
-
 Features
---------
+~~~~~~~~~~~~~~~~~~~
 
 - **Visualize Complex Data:** Easily create plots for datasets with multiple categorical variables.
 - **Customization:** Customize plots with titles, labels, and themes.
 - **Integration with ggplot2:** Leverages the power of ``ggplot2`` for advanced plotting capabilities.
 
 Contributing
-------------
+~~~~~~~~~~~~~~~~~~~
 
 We welcome contributions from the community! If you'd like to contribute:
 
@@ -160,6 +150,6 @@ We welcome contributions from the community! If you'd like to contribute:
 3. Submit a pull request with a detailed description of your changes.
 
 Contact
--------
+~~~~~~~~~~~~~~~~~~~
 
 If you have any questions, suggestions, or issues, please open an issue on GitHub.
