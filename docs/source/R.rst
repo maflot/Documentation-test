@@ -123,15 +123,22 @@ This code will generate a dice plot visualizing the relationships between the ca
 Sample Output
 
 
-.. figure:: ./sample_plots/dice_plot_3_example_dice_plot.png
+.. figure:: ./dice_plot_3_example_dice_plot.png
    :alt: Sample Dice with 3 categories Plot
 
+.. figure:: ./dice_plot_4_example_dice_plot.png
+   :alt: Sample Dice with 4 categories Plot
+
    *Figure: A sample dice plot generated using the ``DicePlot`` package.*
 
-.. figure:: ./sample_plots/dice_plot_5_example_dice_plot.png
+.. figure:: ./dice_plot_5_example_dice_plot.png
+   :alt: Sample Dice with 5 categories Plot
+
+.. figure:: ./dice_plot_6_example_dice_plot.png
    :alt: Sample Dice with 6 categories Plot
 
-   *Figure: A sample dice plot generated using the ``DicePlot`` package.*
+   *Figure: A sample dice plots with differing category numbers generated using the ``DicePlot`` package.*
+
 
 Features
 ~~~~~~~~~~~~~~~~~~~
